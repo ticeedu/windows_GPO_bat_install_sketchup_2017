@@ -1,2 +1,4 @@
 # windows_GPO_bat_install_sketchup_2017
-sketchup 2017 script bat de déploiement pour GPO windows serveur 2016
+20 septembre 2019
+BUT : un simple script .bat de déploiement à integrer dans une GPO windows serveur 2016 pour deployer sketchup 2019 et son plugin stl2 à l'arret de le la machine.
+
